@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohanghosh01/create-node-mongodb-app.git"
+    "url": "https://github.com/rohanghosh01/create-node-sequelize-app.git"
   },
-  "homepage": "https://github.com/rohanghosh01/create-node-mongodb-app#readme",
+  "homepage": "https://github.com/rohanghosh01/create-node-sequelize-app#readme",
   "keywords": [
     "cli",
     "boilerplate",
